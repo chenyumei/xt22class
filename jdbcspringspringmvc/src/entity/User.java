@@ -56,6 +56,7 @@ public class User {
 	public void setUserRoleName(String userRoleName) {
 		this.userRoleName = userRoleName;
 	}
+	//test
 	public Integer getAge() {
 		/*long time = System.currentTimeMillis()-birthday.getTime();
 		Integer age = Long.valueOf(time/365/24/60/60/1000).IntegerValue();*/
